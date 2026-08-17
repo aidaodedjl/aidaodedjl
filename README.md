@@ -4,7 +4,9 @@
 
 ### 👨‍💻 About Me
 
-- 🤖 Working in the **embodied AI** industry — focused on **Unitree robots (G1 / R1 / H2)**: development & deployment frameworks, deployment toolboxes, and robot group-control software
+- 🤖 I work in **embodied AI**, on **Unitree robots (G1 / R1 / H2)** — development & deployment frameworks, toolboxes, and robot group-control software
+- 💻 Much of that is desktop tooling: Electron & C# apps that keep robot fleets deployed and up to date
+- 🧠 Especially enjoy C++ ↔ Python interop — what drew me to pybind11
 - 📍 Shanghai, China
 - 🔭 Contributing to **[VS Code](https://github.com/microsoft/vscode)** & **[pybind11](https://github.com/pybind/pybind11)**
 - 🛠 Daily drivers: C++, Python, TypeScript / Electron, C# / .NET
