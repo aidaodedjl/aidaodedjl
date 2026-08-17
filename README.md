@@ -6,8 +6,7 @@
 
 - 🤖 Working in the **embodied AI** industry — focused on **Unitree robots (G1 / R1 / H2)**: development & deployment frameworks, deployment toolboxes, and robot group-control software
 - 📍 Shanghai, China
-- 🔭 Actively contributing to **[VS Code](https://github.com/microsoft/vscode)** & **[pybind11](https://github.com/pybind/pybind11)**
-- 🐛 I hunt real, confirmed bugs — not just "good first issues"
+- 🔭 Contributing to **[VS Code](https://github.com/microsoft/vscode)** & **[pybind11](https://github.com/pybind/pybind11)**
 - 🛠 Daily drivers: C++, Python, TypeScript / Electron, C# / .NET
 
 ### 🚀 Tech Stack
