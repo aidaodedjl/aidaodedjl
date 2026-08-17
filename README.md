@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2BE4E4&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+DJL+%F0%9F%91%8B;Embodied+AI+%C2%B7+Unitree+G1%2FR1%2FH2;C%2FC%2B%2B+%C3%97+Python+%C3%97+Electron;open-source+contributor" alt="typing" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Hi,%20I'm%20DJL&fontSize=44&fontColor=e6e6e6&fontAlignY=34&desc=Embodied%20AI%20%C2%B7%20Unitree%20G1%2FR1%2FH2%20%C2%B7%20C%2FC%2B%2B%20%C3%97%20Python%20%C3%97%20Electron&descAlignY=55&descSize=16" alt="header" />
 </h1>
 
 ### 👨‍💻 About Me
