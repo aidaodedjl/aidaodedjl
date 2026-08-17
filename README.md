@@ -5,9 +5,9 @@
 ### 👨‍💻 About Me
 
 - 📍 Shanghai, China
-- 🔭 Actively contributing to **[VS Code](https://github.com/microsoft/vscode)**, **[pybind11](https://github.com/pybind/pybind11)** & **Cython**
+- 🔭 Actively contributing to **[VS Code](https://github.com/microsoft/vscode)** & **[pybind11](https://github.com/pybind/pybind11)**
 - 🐛 I hunt real, confirmed bugs — not just "good first issues"
-- 🛠 Daily drivers: C++, Python, TypeScript / Electron
+- 🛠 Daily drivers: C++, Python, TypeScript / Electron, C# / .NET
 
 ### 🚀 Tech Stack
 
@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
