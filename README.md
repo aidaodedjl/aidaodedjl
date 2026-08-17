@@ -7,7 +7,7 @@
 **Embodied AI engineer** — I build the software that makes humanoid robots move, dance, and work safely in the real world.
 
 - 🤖 **Motion & dance control for Unitree robots (G1 / R1 / H2)** — motion-control frameworks and group-dance systems
-- 🛠 **Deployment toolchains** — Electron + Vue desktop apps for fleet deployment, auto-updates, and encrypted, anti-debug–protected model distribution
+- 🛠 **Deployment toolchains** — Electron + Vue desktop apps for robot software deployment, auto-updates, and encrypted, anti-debug–protected model distribution
 - 🔭 **Open source** — contributing to [VS Code](https://github.com/microsoft/vscode) & [pybind11](https://github.com/pybind/pybind11)
 - 📍 Based in Shanghai, China
 
