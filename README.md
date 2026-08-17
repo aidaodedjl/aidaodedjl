@@ -26,8 +26,4 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img width="28.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aidaodedjl&theme=tokyonight" />
-  <img width="28.6%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aidaodedjl&theme=tokyonight" />
-  <img width="42.8%" src="https://streak-stats.demolab.com?user=aidaodedjl&theme=tokyonight" />
-</p>
+<p align="center"><img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aidaodedjl&theme=tokyonight" /><img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aidaodedjl&theme=tokyonight" /><img width="38%" src="https://streak-stats.demolab.com?user=aidaodedjl&theme=tokyonight" /></p>
