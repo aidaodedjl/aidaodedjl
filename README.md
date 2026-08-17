@@ -1,6 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2BE4E4&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+DJL+%F0%9F%91%8B;C%2FC%2B%2B+%C3%97+Python+%C3%97+Electron;open-source+contributor;currently+deep+in+VS+Code+%26+pybind11" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2BE4E4&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+DJL+%F0%9F%91%8B;Embodied+AI+%C2%B7+Unitree+G1%2FR1%2FH2;C%2FC%2B%2B+%C3%97+Python+%C3%97+Electron;open-source+contributor" alt="typing" />
 </h1>
+
+### 🤖 Embodied AI
+
+- Working in the **embodied intelligence (具身智能)** industry
+- Specialized in **Unitree robots — G1 / R1 / H2**: development & deployment frameworks, deployment toolboxes, and fleet-control (群控) software
 
 ### 👨‍💻 About Me
 
@@ -25,8 +30,8 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aidaodedjl&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidaodedjl&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aidaodedjl&theme=tokyonight" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aidaodedjl&theme=tokyonight" />
 </p>
 
 <img src="https://streak-stats.demolab.com?user=aidaodedjl&theme=tokyonight" height="160" />
