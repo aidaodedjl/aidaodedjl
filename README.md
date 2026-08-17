@@ -4,8 +4,8 @@
 
 ### 🤖 Embodied AI
 
-- Working in the **embodied intelligence (具身智能)** industry
-- Specialized in **Unitree robots — G1 / R1 / H2**: development & deployment frameworks, deployment toolboxes, and fleet-control (群控) software
+- Working in the embodied AI industry
+- Focused on **Unitree robots (G1 / R1 / H2)** — development & deployment frameworks, deployment toolboxes, and robot group-control software
 
 ### 👨‍💻 About Me
 
